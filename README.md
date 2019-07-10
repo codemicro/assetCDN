@@ -7,18 +7,18 @@
 
 Scripts and CSS used by [dotmicron.com](https://www.dotmicron.com) powered by [jsDelivr](https://www.jsdelivr.com).
 
-Current versions for custom scripts:
+### Custom scripts
 
 **CSS**
 
-| File name | Version |
-|-----------|---------|
-| tmain.css | 2.3.0   |
+| File name | Version | Description                                                |
+| --------- | ------- | ---------------------------------------------------------- |
+| tmain.css | 2.3.0   | Contains main house styling for entire website (bar index) |
 
 **Javascript**
 
-| File name        | Version |
-|------------------|---------|
-| emailRedirect.js | 1.0.4   |
-| remCookies.js    | 1.0.0   |
-| showReadme.js    | 1.0.1   |
+| File name        | Version | Description                                                  |
+| ---------------- | ------- | ------------------------------------------------------------ |
+| emailRedirect.js | 1.0.4   | Redirection for Formspree form to prevent getting my email spammed with blackmail again |
+| remCookies.js    | 1.0.0   | Contains a function to remove all website cookies.           |
+| showReadme.js    | 1.0.1   | Basis of the project index at [https://www.dotmicron.com/projects/](https://www.dotmicron.com/projects/) |
