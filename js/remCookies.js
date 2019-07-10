@@ -1,3 +1,8 @@
+/* 
+ * Why delete perfectly good cookies when you could eat them?
+ * v1.0
+ */
+
 function deleteAllCookies() {
     var cookies = document.cookie.split(";");
 
