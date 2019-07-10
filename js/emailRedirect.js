@@ -5,7 +5,7 @@ const qMessage = new URLSearchParams(window.location.search).get("message");
 
 const referrer = document.referrer
 	
-console.log(qName)
+console.log(qName) // probs not needed but whatever
 console.log(qEmail)
 console.log(qSub)
 console.log(qMessage)
