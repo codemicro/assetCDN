@@ -1,3 +1,5 @@
+// TODO: convert to marked https://github.com/markedjs/marked
+
 // things
 const converter = new showdown.Converter();
 const qHandler = new URLSearchParams(window.location.search);
