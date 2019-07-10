@@ -1,3 +1,8 @@
+/*
+ * Couldn't you just read the readme from the repository? No? Fine.
+ * v1.0.1
+ */
+
 // TODO: convert to marked https://github.com/markedjs/marked
 
 // things
