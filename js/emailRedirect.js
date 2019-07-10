@@ -1,3 +1,8 @@
+/*
+ * Good luck getting me now, spammers!
+ * v1.0.4
+ */
+
 const qName = new URLSearchParams(window.location.search).get("name");
 const qEmail = new URLSearchParams(window.location.search).get("email");
 const qSub = new URLSearchParams(window.location.search).get("_subject");
