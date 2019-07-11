@@ -11,11 +11,16 @@ Scripts and CSS used by [dotmicron.com](https://www.dotmicron.com) powered by [j
 
 **CSS**
 
-| File name | Version | Description                                            |
-| --------- | ------- | ------------------------------------------------------ |
-| tmain.css | 2.3.0   | Contains house styling for entire website (bar index). |
+| File name             | Version | Description                                                  |
+| --------------------- | ------- | ------------------------------------------------------------ |
+| tmain.css             | 2.4.1   | Contains house styling for entire website (bar index). Imports bootstrap.css from the CDN also. |
+|                       |         |                                                              |
+| bootstrap.css         | 4.3.1   | https://www.getbootstrap.com                                 |
+| cookieconsent.min.css | n/a     | https://cookieconsent.osano.com/                             |
+| font-awesome.min.css  | 4.7.0   | https://fontawesome.com/?from=io                             |
+| main.css              | n/a     | Part of Read Only - http://html5up.net                       |
 
-**Javascript**
+**Javascript** (custom scripts only)
 
 | File name        | Version | Description                                                  |
 | ---------------- | ------- | ------------------------------------------------------------ |
