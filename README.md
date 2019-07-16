@@ -13,7 +13,7 @@ Scripts and CSS used by [dotmicron.com](https://www.dotmicron.com) powered by [j
 
 | File name             | Version | Description                                                  |
 | --------------------- | ------- | ------------------------------------------------------------ |
-| tmain.css             | 2.4.1   | Contains house styling for entire website (bar index). Imports bootstrap.css from the CDN also. |
+| tmain.css             | 2.4.2   | Contains house styling for entire website (bar index). Imports bootstrap.css from the CDN also. |
 |                       |         |                                                              |
 | bootstrap.css         | 4.3.1   | https://www.getbootstrap.com                                 |
 | cookieconsent.min.css | n/a     | https://cookieconsent.osano.com/                             |
