@@ -1,12 +1,11 @@
 /*
  * Couldn't you just read the readme from the repository? No? Fine.
- * v1.0.1
+ * v1.0.2
  */
 
 // TODO: convert to marked https://github.com/markedjs/marked
 
 // things
-const converter = new showdown.Converter();
 const qHandler = new URLSearchParams(window.location.search);
 // containers
 const contentContainer = document.getElementById("contentContainer");
@@ -57,7 +56,7 @@ if (qRepo == null) {
     qName = "";
 } else {
     $.get(readMeUrl, function ( data ) {
-        contentContainer.innerHTML = converter.makeHtml(data);
+        contentContainer.innerHTML = marked(data);
         pageName.innerHTML = qName;
         document.getElementById("viewLink").href = repoUrl;
         document.getElementById("releasesLink").href = repoUrl + "/releases";
