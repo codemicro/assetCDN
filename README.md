@@ -7,14 +7,14 @@
 
 Scripts and CSS used by [dotmicron.com](https://www.dotmicron.com) powered by [jsDelivr](https://www.jsdelivr.com).
 
-### Custom scripts
+### Index of items
 
 **CSS**
 
 | File name             | Version | Description                                                  |
 | --------------------- | ------- | ------------------------------------------------------------ |
 | tmain.css             | 2.4.2   | Contains house styling for entire website (bar index). Imports bootstrap.css from the CDN also. |
-|                       |         |                                                              |
+| **External items**    |         |                                                              |
 | bootstrap.css         | 4.3.1   | https://www.getbootstrap.com                                 |
 | cookieconsent.min.css | n/a     | Part of https://cookieconsent.osano.com/                     |
 | font-awesome.min.css  | 4.7.0   | https://fontawesome.com/?from=io                             |
@@ -27,7 +27,7 @@ Scripts and CSS used by [dotmicron.com](https://www.dotmicron.com) powered by [j
 | emailRedirect.js        | 1.0.4     | Redirection for my contact form, going to Formspree form - should prevent getting my email spammed with fake blackmail again. It's worked so far. |
 | remCookies.js           | 1.0.0     | Contains a function to remove all website cookies.           |
 | showReadme.js           | 1.0.2     | Basis of the project index at [https://www.dotmicron.com/projects/](https://www.dotmicron.com/projects/) |
-|                         |           |                                                              |
+| **External items**      |           |                                                              |
 | bootstrap.bundle.min.js | 4.3.1     | https://www.getbootstrap.com                                 |
 | breakpoints.min.js      | 1.0       | Made by [ajlkn](https://github.com/ajlkn), used by [Read Only](https://html5up.net/read-only) |
 | browser.min.js          | 1.0       | Made by [ajlkn](https://github.com/ajlkn), used by [Read Only](https://html5up.net/read-only) |
