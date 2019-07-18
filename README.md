@@ -38,7 +38,5 @@ Scripts and CSS used by [dotmicron.com](https://www.dotmicron.com) powered by [j
 | main.js                 | n/a       | Part of Read Only - http://html5up.net                       |
 | marked.min.js           | 0.7.0     | [markedjs/marked](https://www.github.com/markedjs/marked) - used in showReadme.js |
 | modernizr.js            | n/a       | Custom build of [Modernizr](https://modernizr.com/), using the WebP component only. |
-| ~~parseMD.js~~          | ~~1.9.0~~ | ~~[showdownjs/showdown] - used in showReadme.js~~ *Depreciated!* Replaced by marked.min.js |
-=======
 | ~~parseMD.js~~          | ~~1.9.0~~ | ~~[showdownjs/showdown](https://www.github.com/showdownjs/showdown) - used in showReadme.js~~ *Depreciated!* Replaced by marked.min.js |
 | util.js                 | n/a       | Part of Read Only - http://html5up.net                       |
