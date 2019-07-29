@@ -24,6 +24,7 @@ Scripts and CSS used by [dotmicron.com](https://www.dotmicron.com) powered by [j
 
 | File name               | Version   | Description                                                  |
 | ----------------------- | --------- | ------------------------------------------------------------ |
+| checkWebp.js            | 1.0.0     | Replaces all WebP images with JPEG images if a user's browser doesn't support WebP. Requires modernizr.js. |
 | emailRedirect.js        | 1.0.4     | Redirection for my contact form, going to Formspree form - should prevent getting my email spammed with fake blackmail again. It's worked so far. |
 | remCookies.js           | 1.0.0     | Contains a function to remove all website cookies.           |
 | showReadme.js           | 1.0.2     | Basis of the project index at [https://www.dotmicron.com/projects/](https://www.dotmicron.com/projects/) |
