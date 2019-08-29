@@ -10,7 +10,7 @@ function changeImages () {
 		if (!result) {
 			console.log("WebP support not detected. Switching all images to JPG.")
 			for (let i = 0; i < images.length; i++) {
-				images[i].src = "https://www.dotmicron.com/api/webpjpg.php?lc=" + images[i].src;
+				images[i].src = "https://www.tdpain.net/api/webpjpg.php?lc=" + images[i].src;
 			}
 			console.log("JPG switch complete.")
 			//alert("This browser does not support WebP format images.")

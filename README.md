@@ -1,11 +1,11 @@
 # assetCDN
 
-### The CDN for dotmicron.com's scripts and CSS
+### The CDN for tdpain.net's scripts and CSS
 
 [![jsDelvr badge](https://img.shields.io/badge/Powered%20by-jsDelivr-%23ff5627.svg?style=flat-square)](https://www.jsdelivr.com)
 ![Hits/month](https://data.jsdelivr.com/v1/package/gh/codemicro/assetCDN/badge)
 
-Scripts and CSS used by [dotmicron.com](https://www.dotmicron.com) powered by [jsDelivr](https://www.jsdelivr.com).
+Scripts and CSS used by [tdpain.net](https://www.tdpain.net) powered by [jsDelivr](https://www.jsdelivr.com).
 
 ### Index of items
 

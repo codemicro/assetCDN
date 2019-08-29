@@ -16,8 +16,8 @@ console.log(qSub)
 console.log(qMessage)
 
 if(referrer.search("formspree") != -1){
-	location.replace("https://www.dotmicron.com?success=1")
+	location.replace("https://www.tdpain.net?success=1")
 } else {
-	document.body.innerHTML += `<form id="hackyForm" action="https://formspree.io/newdirect@dotmicron.com" method="post"><input type="hidden" name="name" value="${qName}"><input type="hidden" name="email" value="${qEmail}"><input type="hidden" name="_subject" value="${qSub}"><input type="hidden" name="message" value="${qMessage}"></form>`;
+	document.body.innerHTML += `<form id="hackyForm" action="https://formspree.io/newdirect@tdpain.net" method="post"><input type="hidden" name="name" value="${qName}"><input type="hidden" name="email" value="${qEmail}"><input type="hidden" name="_subject" value="${qSub}"><input type="hidden" name="message" value="${qMessage}"></form>`;
 	document.getElementById("hackyForm").submit();
 }

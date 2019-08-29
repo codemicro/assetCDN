@@ -52,7 +52,7 @@ if (qName == null) {
 if (qRepo == null) {
     console.error("No repository was provided.");
     contentContainer.innerHTML = "No repository has been specified in the query string.";
-    document.title = "No repo specified : dotmicron.com";
+    document.title = "No repo specified : tdpain.net";
     qName = "";
 } else {
     $.get(readMeUrl, function ( data ) {
@@ -63,7 +63,7 @@ if (qRepo == null) {
         document.getElementById("watchLink").href = repoUrl + "/subscription";
         gitLink.style.display = "block";
     }).fail(function ( error ){
-        document.title = "Repo unavailable : dotmicron.com";
+        document.title = "Repo unavailable : tdpain.net";
         contentContainer.innerHTML = `Could not reach the the specified repository's README.md.<br>The remote server returned an error <strong>${error.status}</strong>.`;
     })
 }
