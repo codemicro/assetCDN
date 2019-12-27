@@ -41,4 +41,4 @@ Scripts and CSS used by [tdpain.net](https://www.tdpain.net) powered by [jsDeliv
 | modernizr.js            | 3.6.0     | Custom build of [Modernizr](https://modernizr.com/), using the WebP component only. |
 | ~~parseMD.js~~          | ~~1.9.0~~ | ~~[showdownjs/showdown](https://www.github.com/showdownjs/showdown) - used in showReadme.js~~ *Depreciated!* Replaced by marked.min.js |
 | util.js                 | n/a       | Part of Read Only - http://html5up.net                       |
-| typed.js                | n/a       | [Typed.JS](https://mattboldt.github.io/typed.js/) by [mattboldt](https://github.com/mattboldt) |
+| typed.js                | 2.0.11    | [Typed.JS](https://mattboldt.github.io/typed.js/) by [mattboldt](https://github.com/mattboldt) |
