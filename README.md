@@ -14,11 +14,11 @@ Scripts and CSS used by [tdpain.net](https://www.tdpain.net) powered by [jsDeliv
 | File name             | Version | Description                                                  |
 | --------------------- | ------- | ------------------------------------------------------------ |
 | tmain.css             | 2.4.2   | Contains house styling for entire website (bar index). Imports bootstrap.css from the CDN also. |
+| main.css              | 1.0.0   | Homepage stuff only                                          |
 | **External items**    |         |                                                              |
 | bootstrap.css         | 4.3.1   | https://www.getbootstrap.com                                 |
 | cookieconsent.min.css | n/a     | Part of https://cookieconsent.osano.com/                     |
 | font-awesome.min.css  | 4.7.0   | https://fontawesome.com/?from=io                             |
-| main.css              | n/a     | Part of Read Only - http://html5up.net                       |
 
 **Javascript**
 
@@ -41,3 +41,4 @@ Scripts and CSS used by [tdpain.net](https://www.tdpain.net) powered by [jsDeliv
 | modernizr.js            | 3.6.0     | Custom build of [Modernizr](https://modernizr.com/), using the WebP component only. |
 | ~~parseMD.js~~          | ~~1.9.0~~ | ~~[showdownjs/showdown](https://www.github.com/showdownjs/showdown) - used in showReadme.js~~ *Depreciated!* Replaced by marked.min.js |
 | util.js                 | n/a       | Part of Read Only - http://html5up.net                       |
+| typed.js                | n/a       | [Typed.JS](https://mattboldt.github.io/typed.js/) by [mattboldt](https://github.com/mattboldt) |
