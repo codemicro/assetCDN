@@ -17,7 +17,7 @@ Scripts and CSS used by [tdpain.net](https://www.tdpain.net) powered by [jsDeliv
 | main.css              | 1.0.0   | Homepage stuff only                                          |
 | **External items**    |         |                                                              |
 | bootstrap.css         | 4.3.1   | https://www.getbootstrap.com                                 |
-| cookieconsent.min.css | n/a     | Part of https://cookieconsent.osano.com/                     |
+| cookieconsent.min.css | n/a     | Old version of https://cookieconsent.osano.com/... I'm suspicious of what it's turned into. |
 | font-awesome.min.css  | 4.7.0   | https://fontawesome.com/?from=io                             |
 
 **Javascript**
@@ -32,7 +32,7 @@ Scripts and CSS used by [tdpain.net](https://www.tdpain.net) powered by [jsDeliv
 | bootstrap.bundle.min.js | 4.3.1     | https://www.getbootstrap.com                                 |
 | breakpoints.min.js      | 1.0       | Made by [ajlkn](https://github.com/ajlkn), used by [Read Only](https://html5up.net/read-only) |
 | browser.min.js          | 1.0       | Made by [ajlkn](https://github.com/ajlkn), used by [Read Only](https://html5up.net/read-only) |
-| cookieconsent.min.js    | n/a       | Part of https://cookieconsent.osano.com/                     |
+| cookieconsent.min.js    | n/a       | See above https://cookieconsent.osano.com/                   |
 | jquery.js               | 3.4.1     | https://www.jquery.org                                       |
 | jquery.scrollex.min.js  | 0.2.1     | [This](https://github.com/ajlkn/jquery.scrollex) thing here, made by [ajlkn](https://github.com/ajlkn), used by [Read Only](https://html5up.net/read-only) |
 | jquery.scrolly.min.js   | 1.0.0-dev | Made by [ajlkn](https://github.com/ajlkn)                    |
